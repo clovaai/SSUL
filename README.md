@@ -51,8 +51,8 @@ data_root/
         --- Annotations/
         --- ImageSet/
         --- JPEGImages/
-        --- [SegmentationClassAug/](https://drive.google.com/file/d/17ylg3RHZCQRyGVk6rcmkAjcMi6jeuXLr/view?usp=sharing)
-        --- [saliency_map/](https://drive.google.com/file/d/1NDPBKbg5aoCismuU9R_IJ9cJp5ncww-M/view?usp=sharing)
+        --- SegmentationClassAug/
+        --- saliency_map/
     --- ADEChallengeData2016
         --- annotations
             --- training
@@ -61,6 +61,8 @@ data_root/
             --- training
             --- validation
 ```
+
+Download [SegmentationClassAug](https://drive.google.com/file/d/17ylg3RHZCQRyGVk6rcmkAjcMi6jeuXLr/view?usp=sharing) and [saliency_map](https://drive.google.com/file/d/1NDPBKbg5aoCismuU9R_IJ9cJp5ncww-M/view?usp=sharing)
 
 ### Class-Incremental Segmentation Segmentation on VOC 2012
 
