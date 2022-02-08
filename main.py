@@ -21,7 +21,7 @@ from metrics import StreamSegMetrics
 
 import torch
 import torch.nn as nn
-from utils.utils import AverageMeter, rand_bbox
+from utils.utils import AverageMeter
 from utils.tasks import get_tasks
 from utils.memory import memory_sampling_balanced
 
