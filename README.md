@@ -74,7 +74,7 @@ data_root/
             --- validation
 ```
 
-Download [SegmentationClassAug](https://drive.google.com/file/d/17ylg3RHZCQRyGVk6rcmkAjcMi6jeuXLr/view?usp=sharing) and [saliency_map](https://drive.google.com/file/d/1NDPBKbg5aoCismuU9R_IJ9cJp5ncww-M/view?usp=sharing)
+Download [SegmentationClassAug](https://github.com/clovaai/SSUL/releases/download/preparation/SegmentationClassAug.zip) and [saliency_map](https://github.com/clovaai/SSUL/releases/download/preparation/saliency_map.zip)
 
 ### Class-Incremental Segmentation Segmentation on VOC 2012
 
